@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=%20Hello%20world!&fontSize=50&fontAlignY=50&animation=twinkling&fontColor=00f2ff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=125&section=header&text=%20Hello%20world!&fontSize=35&fontAlignY=50&animation=twinkling&fontColor=00f2ff" />
 </p>
 
 ## Sobre
@@ -22,8 +22,8 @@ Aqui estão alguns dos resultados práticos desenvolvidos ao longo do Bootcamp:
 
 | Projeto | Descrição | Link do Deploy |
 | :--- | :--- | :--- |
-| **Product Card** | Card para e-commerce feito com HTML e CSS | [Visualizar Projeto](https://eduferrs.github.io/layout_product-cards/) |
-| **Calendar** | Calendário dinâmico feito com HTML e SCSS | [Visualizar Projeto](https://eduferrs.github.io/layout_calendar/) |
+| **Product Card** | Card para e-commerce feito com HTML e CSS | [Visualizar](https://eduferrs.github.io/layout_product-cards/) |
+| **Calendar** | Calendário dinâmico feito com HTML e SCSS | [Visualizar](https://eduferrs.github.io/layout_calendar/) |
 | **Próximo desafio** | Em breve | ___ |
 
 ---
