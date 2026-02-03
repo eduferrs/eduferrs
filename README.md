@@ -24,6 +24,7 @@ Aqui estão alguns dos resultados práticos desenvolvidos ao longo do Bootcamp:
 | :--- | :--- | :--- |
 | **Product Card** | Card para e-commerce feito com HTML e CSS | [Visualizar](https://eduferrs.github.io/layout_product-cards/) |
 | **Calendar** | Calendário dinâmico feito com HTML e SCSS | [Visualizar](https://eduferrs.github.io/layout_calendar/) |
+| **Stopwatch** | Animação de relógio feita com CSS | [Visualizar](https://eduferrs.github.io/layout_stop-watch/) |
 | **Próximo desafio** | Em breve | ___ |
 
 ---
