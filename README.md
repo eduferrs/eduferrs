@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=125&section=header&text=%20Hello%20world!&fontSize=35&fontAlignY=50&animation=twinkling&fontColor=00f2ff" />
-</p>
-
 ## Sobre
 
 Estudante de Sistemas de Informação pela Universidade de São Paulo. Atualmente, estou em busca da primeira oportunidade na área e me aprofundando em desenvolvimento web através de Bootcamps. 
@@ -25,6 +21,7 @@ Aqui estão alguns dos resultados práticos desenvolvidos ao longo do Bootcamp:
 | **Product Card** | Card para e-commerce feito com HTML e CSS | [Visualizar](https://eduferrs.github.io/layout_product-cards/) |
 | **Calendar** | Calendário dinâmico feito com HTML e SCSS | [Visualizar](https://eduferrs.github.io/layout_calendar/) |
 | **Stopwatch** | Animação de relógio feita com CSS | [Visualizar](https://eduferrs.github.io/layout_stop-watch/) |
+| **Catalog** | Catálogo de e-commerce feito para praticar grid | [Visualizar](https://eduferrs.github.io/layout_catalog/) |
 | **Próximo desafio** | Em breve | ___ |
 
 ---
