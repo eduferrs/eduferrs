@@ -22,8 +22,8 @@ Aqui estão alguns dos resultados práticos desenvolvidos ao longo do Bootcamp:
 | **Calendar** | Calendário dinâmico feito com HTML e SCSS | [Visualizar](https://eduferrs.github.io/layout_calendar/) |
 | **Stopwatch** | Animação de relógio feita com CSS | [Visualizar](https://eduferrs.github.io/layout_stop-watch/) |
 | **Catalog** | Catálogo de e-commerce feito para praticar grid | [Visualizar](https://eduferrs.github.io/layout_catalog/) |
+| **Landing Page** | Página completa criada com HTML e CSS | [Visualizar](https://eduferrs.github.io/layout_landing-page/) |
 | **Próximo desafio** | Em breve | ___ |
-
 ---
 
 ## 🌐 Conecte-se comigo
