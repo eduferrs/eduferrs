@@ -13,7 +13,6 @@ Estudante de Sistemas de Informação pela Universidade de São Paulo. Atualment
 ---
 
 ## Projetos/Atividades 
-
 Aqui estão alguns dos resultados práticos desenvolvidos ao longo do Bootcamp:
 
 | Projeto | Descrição | Link do Deploy |
@@ -23,6 +22,7 @@ Aqui estão alguns dos resultados práticos desenvolvidos ao longo do Bootcamp:
 | **Stopwatch** | Animação de relógio feita com CSS | [Visualizar](https://eduferrs.github.io/layout_stop-watch/) |
 | **Catalog** | Catálogo de e-commerce feito para praticar grid | [Visualizar](https://eduferrs.github.io/layout_catalog/) |
 | **Landing Page** | Página completa criada com HTML e CSS | [Visualizar](https://eduferrs.github.io/layout_landing-page/) |
+| **2048** | Game 2048 implementado em JavaScript | [Visualizar](https://eduferrs.github.io/js_2048_game/) |
 | **Próximo desafio** | Em breve | ___ |
 ---
 
